@@ -1,7 +1,7 @@
 # RestoApp
 
 Работу выполнил Александр (CandyDog13)
-
+Страница выполнена с помощью HTML, CSS. При разработке структуры HTML придерживался семантической верстки.
 ![image](https://github.com/user-attachments/assets/aa147674-f556-4b65-987a-7dfdcaae53f7)
 
 Ограничения на страницу:
